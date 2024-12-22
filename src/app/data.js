@@ -107,10 +107,10 @@ export const BtnList = [
     newTab: true,
   },
   {
-    label: "Skill",
-    link: "/skill",
+    label: "FB",
+    link: "https://www.facebook.com/profile.php?id=100019283413603",
     icon: "twitter",
-    newTab: false,
+    newTab: true,
   },
   {
     label: "Resume",
