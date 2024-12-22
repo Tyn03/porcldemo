@@ -36,7 +36,7 @@ const page = () => {
 
   <ul class="list-disc pl-6 mt-4 text-gray-200">
     <li class="mb-2">
-      <strong class="text-white">Real-time Messaging:</strong> With the integration of Pusher, messages are delivered instantly to the user's browser without the need for page reloads.
+      <strong class="text-white">Real-time Messaging:</strong> With the integration of Pusher, messages are delivered instantly to the user browser without the need for page reloads.
     </li>
     <li class="mb-2">
       <strong class="text-white">User Authentication:</strong> NextAuth provides secure and flexible user authentication, supporting multiple login options.
