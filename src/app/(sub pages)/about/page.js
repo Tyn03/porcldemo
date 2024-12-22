@@ -29,7 +29,7 @@ export default function Home() {
               viewport={{ amount: 0.5 }}
               transition={{ duration: 0.8 }}
             >
-              Know Who <span className="text-blue-500">I'M</span>
+              Know Who <span className="text-blue-500">I AM</span>
             </motion.h1>
             <motion.p
               className="text-lg text-gray-300 leading-relaxed justify-center font-semibold"
@@ -47,9 +47,9 @@ export default function Home() {
               <br />
               My actual study field is software engineer, Cyber Security Information.
               I have a passion for building innovative software solutions that
-              make an impact. When I'm not coding, you can find me exploring
+              make an impact. When I am  not coding, you can find me exploring
               new technologies, reading book, or playing video games.
-              Along both university and personal projects, I’ve picked up a range of skills—using  Node.js, ,
+              Along both university and personal projects, I have picked up a range of skills—using  Node.js, ,
                React,  Next.js for development,Docker for deployment, 
               and even getting a taste of cybersecurity.
               
