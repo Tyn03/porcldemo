@@ -3,7 +3,7 @@ import Image from "next/image";
 import { motion } from "framer-motion"; // Import Framer Motion
 import den from "../../../../public/background/den.jpg";
 import pi from "../../../../public/background/pi.jpg";
-import lqd from "../../../../public/background/lqd.jpeg";
+import lqd from "../../../../public/background/lqd.png";
 import insaCVL from "../../../../public/background/insacvl.jpg";
 
 export default function Home() {
